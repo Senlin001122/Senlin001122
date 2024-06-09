@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Senlin001122
+- 👀 I’m interested in C++, python and Linux
+- 🌱 I’m currently learning computer science in university putra malaysia
+- 📫 How to reach me email:yangzixun83@gmail.com ig:senlin001122 
