@@ -1,9 +1,10 @@
-# Self Introduction
+<h2> <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> 森临SENLIN </h2>
+
 - 👋 Hi, I’m YANG ZIXUN  @Senlin001122
 - 👀 I’m interested in C++, python, HTML and Java
 - 🌱 I’m currently learning computer science in University Putra Malaysia
 - 📫 How to reach me email: yangzixun83@gmail.com  ig: senlin001122  WeChat: angryhotdog
-<h3 align="center">FROM PEOPLE’S REPUBLIC OF CHINA</h3>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=senlin001122&label=Profile%20views&color=0e75b6&style=flat" alt="senlin001122" /> </p>
