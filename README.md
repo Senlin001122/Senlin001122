@@ -1,11 +1,12 @@
-<h2> <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> 森临SENLIN </h2>
+<h2> <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> 森临SENLIN powered by <img src="https://yt3.googleusercontent.com/39HFjzmFCdclo5FGCgRehpmHK7f3i4m17vKYNn_GYhqjR6AzwJwM0FIq83VEDQJ16GM8EwoXAQ=s900-c-k-c0x00ffffff-no-rj" width="50" height="50"/> 
+<img src="https://file.digitaling.com/eImg/logo/20210105/20210105014905_68383_320.png"width="50" height="50"/> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4rGDw455plhdIy14tWVYkUGH2R1TmSEGbsQ&s"width="50" height="50"/><img src="https://img2.baidu.com/it/u=3829946373,136741511&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=500"width="50" height="50"/><img src="http://mp.ofweek.com/data/images/leiTech/2022-03-29/89b9552bf3e28d07e6907b23a71761fe.jpg"width="50" height="50"/></h2>
 
 <img src="https://media1.tenor.com/m/SJpYcRM3Q6kAAAAC/%E9%B8%A1%E4%BD%A0%E5%A4%AA%E7%BE%8E.gif" />
 
-- 👋 Hi, I’m YANG ZIXUN  @Senlin001122
-- 👀 I’m interested in C++, python, HTML and Java
-- 🌱 I’m currently learning computer science in University Putra Malaysia
-- 📫 How to reach me email: yangzixun83@gmail.com  ig: senlin001122  WeChat: angryhotdog
+- 👋 YANG ZIXUN  @Senlin001122
+- 👀 Focus on C++, python, HTML and Java
+- 🌱 A Computer Science in University Putra Malaysia
+- 📫 email: yangzixun83@gmail.com & 292712086@qq.com    ig: senlin001122    WeChat: angryhotdog
 
 
 
