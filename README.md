@@ -6,7 +6,9 @@
 - 👋 YANG ZIXUN  @Senlin001122
 - 👀 Focus on C++, python, HTML and Java
 - 🌱 A Computer Science in University Putra Malaysia
-- 📫 email: yangzixun83@gmail.com & 292712086@qq.com    ig: senlin001122    WeChat: angryhotdog
+- 📫 email: yangzixun83@gmail.com & 292712086@qq.com
+- ig: senlin001122
+- WeChat: angryhotdog
 
 
 
